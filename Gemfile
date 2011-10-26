@@ -5,7 +5,8 @@ gem 'rails', '3.1.1'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3-ruby', '1.3.1', :require => 'sqlite3'
+#gem 'sqlite3-ruby', '1.3.3', :require => 'sqlite3'
+gem 'sqlite3', '1.3.4', :require => 'sqlite3'
 gem 'gravatar_image_tag', '1.0.0'
 gem 'will_paginate', '3.0.2'
 
@@ -30,7 +31,7 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
-   gem 'ruby-debug19', :require => 'ruby-debug'
+#gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :development do
    gem 'rspec-rails', '~> 2.7.0'
