@@ -143,7 +143,7 @@ DEPENDENCIES
   faker (~> 1.0.1)
   gravatar_image_tag (= 1.0.0)
   jquery-rails
-  pg (= 0.11.0)
+  pg
   rails (= 3.1.1)
   rspec (~> 2.7.0)
   rspec-rails (~> 2.7.0)
